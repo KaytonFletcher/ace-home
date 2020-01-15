@@ -138,7 +138,7 @@ function Home() {
       <Container>
         <Row>
           <Col xs={{span: 6, offset: 3}}>
-            <h2 className="text-center">Our 2019 Officers</h2>
+            <h2 className="text-center">Our 2020 Officers</h2>
             <hr />
           </Col>
         </Row>

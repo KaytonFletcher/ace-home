@@ -92,14 +92,14 @@ const BOARD_DATA = [
 	{
 		name: "Connor Catlett",
 		email: "development.uf.ace@gmail.com",
-		title: "Technical Projects",
+		title: "Projects",
 		src: "noPhoto.jpg",
 		slack: "ConnorJC"
 	},
 	{
 		name: "Christopher Wilson",
 		email: "development.uf.ace@gmail.com",
-		title: "Technical Projects",
+		title: "Workshops",
 		src: "noPhoto.jpg",
 		slack: "Christopher Wilson"
 	},
